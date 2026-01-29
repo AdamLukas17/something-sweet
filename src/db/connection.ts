@@ -2,7 +2,9 @@ import Database from 'better-sqlite3';
 import { Pool } from 'pg';
 import path from 'path';
 
-const isProduction = process.env.NODE_ENV === 'production';
+function isProduction(): boolean {
+  return process.env.NODE_ENV === 'production';
+}
 
 // SQLite connection for development
 let sqliteDb: Database.Database | null = null;
@@ -36,7 +38,7 @@ export interface QueryResult<T> {
 }
 
 export async function query<T>(sql: string, params: unknown[] = []): Promise<QueryResult<T>> {
-  if (isProduction) {
+  if (isProduction()) {
     const pool = getPgPool();
     const result = await pool.query(sql, params);
     return { rows: result.rows as T[], rowCount: result.rowCount ?? 0 };

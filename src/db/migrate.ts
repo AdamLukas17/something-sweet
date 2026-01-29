@@ -3,8 +3,6 @@ import fs from 'fs';
 import path from 'path';
 import { getSqliteDb, getPgPool } from './connection';
 
-const isProduction = process.env.NODE_ENV === 'production';
-
 // PostgreSQL schema
 const pgSchema = `
 CREATE TABLE IF NOT EXISTS users (
@@ -41,7 +39,9 @@ CREATE INDEX IF NOT EXISTS idx_users_telegram_id ON users(telegram_id);
 
 // Exportable function for programmatic use
 export async function runMigrations(): Promise<void> {
+  const isProduction = process.env.NODE_ENV === 'production';
   console.log(`Running migrations (${isProduction ? 'PostgreSQL' : 'SQLite'})...`);
+  console.log(`NODE_ENV = ${process.env.NODE_ENV}`);
 
   if (isProduction) {
     const pool = getPgPool();
