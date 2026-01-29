@@ -4,6 +4,7 @@ import { setupBot } from './bot/telegram';
 import { notificationService } from './providers';
 import { TelegramProvider } from './providers/telegram';
 import { runHeartbeat } from './services/heartbeat';
+import { runMigrations } from './db/migrate';
 
 const HEARTBEAT_INTERVAL_MS = 60 * 60 * 1000; // 1 hour
 
@@ -16,6 +17,9 @@ async function main(): Promise<void> {
     console.error('2. Copy .env.example to .env and add your token');
     process.exit(1);
   }
+
+  // Run database migrations
+  await runMigrations();
 
   // Initialize bot
   const bot = new Telegraf(token);
