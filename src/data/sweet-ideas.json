@@ -1,0 +1,604 @@
+{
+  "ideas": [
+    {
+      "id": 1,
+      "title": "Write a love note",
+      "description": "Leave a handwritten note somewhere they'll find it - their bag, pocket, or under their pillow.",
+      "category": "notes"
+    },
+    {
+      "id": 2,
+      "title": "Make their favorite meal",
+      "description": "Surprise them by cooking their favorite dish for dinner tonight.",
+      "category": "food"
+    },
+    {
+      "id": 3,
+      "title": "Give a long hug",
+      "description": "Give them a genuine 20-second hug when you see them. No words needed.",
+      "category": "physical"
+    },
+    {
+      "id": 4,
+      "title": "Send a midday text",
+      "description": "Send a message telling them one specific thing you love about them.",
+      "category": "words"
+    },
+    {
+      "id": 5,
+      "title": "Do their chore",
+      "description": "Take care of one of their usual tasks without being asked.",
+      "category": "acts"
+    },
+    {
+      "id": 6,
+      "title": "Plan a surprise date",
+      "description": "Organize an unexpected date night - even if it's just a walk or movie at home.",
+      "category": "quality_time"
+    },
+    {
+      "id": 7,
+      "title": "Bring them a treat",
+      "description": "Pick up their favorite snack or coffee on your way home.",
+      "category": "gifts"
+    },
+    {
+      "id": 8,
+      "title": "Listen actively",
+      "description": "Tonight, put away your phone and give them your full attention when they talk.",
+      "category": "quality_time"
+    },
+    {
+      "id": 9,
+      "title": "Compliment them publicly",
+      "description": "Say something nice about them in front of friends or family.",
+      "category": "words"
+    },
+    {
+      "id": 10,
+      "title": "Create a playlist",
+      "description": "Make a playlist of songs that remind you of them or your relationship.",
+      "category": "gifts"
+    },
+    {
+      "id": 11,
+      "title": "Give a massage",
+      "description": "Offer a relaxing shoulder or foot massage after a long day.",
+      "category": "physical"
+    },
+    {
+      "id": 12,
+      "title": "Say thank you",
+      "description": "Thank them for something specific they did recently that you appreciated.",
+      "category": "words"
+    },
+    {
+      "id": 13,
+      "title": "Plan for the future",
+      "description": "Talk about a trip or activity you'd like to do together someday.",
+      "category": "quality_time"
+    },
+    {
+      "id": 14,
+      "title": "Wake up first",
+      "description": "Get up early and bring them breakfast in bed or coffee to start their day.",
+      "category": "acts"
+    },
+    {
+      "id": 15,
+      "title": "Send old photos",
+      "description": "Find and share a favorite photo from your time together with a sweet caption.",
+      "category": "notes"
+    },
+    {
+      "id": 16,
+      "title": "Learn their interest",
+      "description": "Ask them to teach you about something they're passionate about.",
+      "category": "quality_time"
+    },
+    {
+      "id": 17,
+      "title": "Small gift",
+      "description": "Buy them something small that shows you listen - a book they mentioned, etc.",
+      "category": "gifts"
+    },
+    {
+      "id": 18,
+      "title": "Physical affection",
+      "description": "Hold their hand, kiss their forehead, or cuddle on the couch tonight.",
+      "category": "physical"
+    },
+    {
+      "id": 19,
+      "title": "Take over planning",
+      "description": "Handle the mental load for something - grocery list, weekend plans, etc.",
+      "category": "acts"
+    },
+    {
+      "id": 20,
+      "title": "Remember the little things",
+      "description": "Bring up a happy memory from your relationship and reminisce together.",
+      "category": "words"
+    },
+    {
+      "id": 21,
+      "title": "Draw them a bath",
+      "description": "Run a warm bath with candles and their favorite scents waiting for them.",
+      "category": "acts"
+    },
+    {
+      "id": 22,
+      "title": "Leave a voice memo",
+      "description": "Record a short voice message telling them you're thinking of them.",
+      "category": "notes"
+    },
+    {
+      "id": 23,
+      "title": "Dance in the kitchen",
+      "description": "Put on your favorite song and slow dance together while cooking.",
+      "category": "physical"
+    },
+    {
+      "id": 24,
+      "title": "Write 10 reasons",
+      "description": "Give them a list of 10 reasons why you fell in love with them.",
+      "category": "notes"
+    },
+    {
+      "id": 25,
+      "title": "Pack their lunch",
+      "description": "Prepare their lunch for the next day with a hidden love note inside.",
+      "category": "food"
+    },
+    {
+      "id": 26,
+      "title": "Stargaze together",
+      "description": "Find a quiet spot and spend time looking at the stars together.",
+      "category": "quality_time"
+    },
+    {
+      "id": 27,
+      "title": "Warm their towel",
+      "description": "Put their towel in the dryer while they shower so it's warm when they get out.",
+      "category": "acts"
+    },
+    {
+      "id": 28,
+      "title": "Create a photo book",
+      "description": "Compile your favorite photos together into a small printed book.",
+      "category": "gifts"
+    },
+    {
+      "id": 29,
+      "title": "Kiss their forehead",
+      "description": "Give them a gentle forehead kiss before they fall asleep.",
+      "category": "physical"
+    },
+    {
+      "id": 30,
+      "title": "Defend them",
+      "description": "Stand up for them if someone speaks negatively about them.",
+      "category": "words"
+    },
+    {
+      "id": 31,
+      "title": "Fill their car with gas",
+      "description": "Fill up their gas tank so they don't have to worry about it.",
+      "category": "acts"
+    },
+    {
+      "id": 32,
+      "title": "Schedule a picnic",
+      "description": "Pack a surprise picnic lunch and take them to a beautiful spot.",
+      "category": "quality_time"
+    },
+    {
+      "id": 33,
+      "title": "Send flowers",
+      "description": "Have flowers delivered to them at work or home unexpectedly.",
+      "category": "gifts"
+    },
+    {
+      "id": 34,
+      "title": "Bake their favorite dessert",
+      "description": "Surprise them with a homemade version of their favorite sweet treat.",
+      "category": "food"
+    },
+    {
+      "id": 35,
+      "title": "Write a poem",
+      "description": "Compose a short, heartfelt poem about your feelings for them.",
+      "category": "notes"
+    },
+    {
+      "id": 36,
+      "title": "Hold hands in public",
+      "description": "Reach for their hand while walking together in public.",
+      "category": "physical"
+    },
+    {
+      "id": 37,
+      "title": "Tell them you're proud",
+      "description": "Express how proud you are of something they've accomplished.",
+      "category": "words"
+    },
+    {
+      "id": 38,
+      "title": "Make breakfast together",
+      "description": "Wake up and cook a nice breakfast together as a team.",
+      "category": "quality_time"
+    },
+    {
+      "id": 39,
+      "title": "Charge their phone",
+      "description": "Plug in their phone at night so it's fully charged in the morning.",
+      "category": "acts"
+    },
+    {
+      "id": 40,
+      "title": "Buy their favorite magazine",
+      "description": "Pick up a magazine or book they'd enjoy reading.",
+      "category": "gifts"
+    },
+    {
+      "id": 41,
+      "title": "Wash their car",
+      "description": "Clean their car inside and out as a surprise.",
+      "category": "acts"
+    },
+    {
+      "id": 42,
+      "title": "Frame your favorite photo",
+      "description": "Print and frame a meaningful photo of you two together.",
+      "category": "gifts"
+    },
+    {
+      "id": 43,
+      "title": "Make hot cocoa",
+      "description": "Prepare a cozy cup of hot cocoa for a quiet evening in.",
+      "category": "food"
+    },
+    {
+      "id": 44,
+      "title": "Write on the mirror",
+      "description": "Leave a sweet message on the bathroom mirror with a dry-erase marker.",
+      "category": "notes"
+    },
+    {
+      "id": 45,
+      "title": "Brush their hair",
+      "description": "Offer to gently brush or play with their hair while relaxing.",
+      "category": "physical"
+    },
+    {
+      "id": 46,
+      "title": "Tell them they're beautiful",
+      "description": "Look them in the eyes and tell them how attractive they are to you.",
+      "category": "words"
+    },
+    {
+      "id": 47,
+      "title": "Plan a game night",
+      "description": "Set up a fun board game or card game night just for the two of you.",
+      "category": "quality_time"
+    },
+    {
+      "id": 48,
+      "title": "Do the dishes",
+      "description": "Clean up after dinner so they can relax.",
+      "category": "acts"
+    },
+    {
+      "id": 49,
+      "title": "Bring home their comfort food",
+      "description": "Pick up their go-to comfort meal from their favorite restaurant.",
+      "category": "food"
+    },
+    {
+      "id": 50,
+      "title": "Write future envelopes",
+      "description": "Create sealed envelopes with notes to open on future dates.",
+      "category": "notes"
+    },
+    {
+      "id": 51,
+      "title": "Cuddle and watch a movie",
+      "description": "Choose their favorite movie and spend the evening cuddling.",
+      "category": "physical"
+    },
+    {
+      "id": 52,
+      "title": "Apologize first",
+      "description": "After a disagreement, be the first to apologize sincerely.",
+      "category": "words"
+    },
+    {
+      "id": 53,
+      "title": "Take a walk together",
+      "description": "Go for a quiet neighborhood walk just to spend time together.",
+      "category": "quality_time"
+    },
+    {
+      "id": 54,
+      "title": "Fold their laundry",
+      "description": "Fold and put away their clean clothes before they get to it.",
+      "category": "acts"
+    },
+    {
+      "id": 55,
+      "title": "Gift a cozy blanket",
+      "description": "Surprise them with a soft, cozy blanket for relaxing.",
+      "category": "gifts"
+    },
+    {
+      "id": 56,
+      "title": "Make their coffee",
+      "description": "Prepare their morning coffee or tea exactly the way they like it.",
+      "category": "food"
+    },
+    {
+      "id": 57,
+      "title": "Hide sticky notes",
+      "description": "Place small encouraging notes in random places they'll find throughout the day.",
+      "category": "notes"
+    },
+    {
+      "id": 58,
+      "title": "Scratch their back",
+      "description": "Offer a gentle back scratch while watching TV together.",
+      "category": "physical"
+    },
+    {
+      "id": 59,
+      "title": "Share a dream",
+      "description": "Tell them about a dream you have for your future together.",
+      "category": "words"
+    },
+    {
+      "id": 60,
+      "title": "Cook a new recipe",
+      "description": "Try making a new dish together as a fun experiment.",
+      "category": "quality_time"
+    },
+    {
+      "id": 61,
+      "title": "Take out the trash",
+      "description": "Handle the garbage before they have to think about it.",
+      "category": "acts"
+    },
+    {
+      "id": 62,
+      "title": "Give a thoughtful book",
+      "description": "Buy them a book you think they'd love with a personal inscription.",
+      "category": "gifts"
+    },
+    {
+      "id": 63,
+      "title": "Make a smoothie",
+      "description": "Blend up a healthy, delicious smoothie for them.",
+      "category": "food"
+    },
+    {
+      "id": 64,
+      "title": "Text a memory",
+      "description": "Send them a text describing your favorite memory of the two of you.",
+      "category": "notes"
+    },
+    {
+      "id": 65,
+      "title": "Rest your head on them",
+      "description": "Lean on their shoulder while sitting together.",
+      "category": "physical"
+    },
+    {
+      "id": 66,
+      "title": "Express gratitude",
+      "description": "Tell them three things you're grateful for about them today.",
+      "category": "words"
+    },
+    {
+      "id": 67,
+      "title": "Watch the sunrise",
+      "description": "Wake up early and watch the sunrise together.",
+      "category": "quality_time"
+    },
+    {
+      "id": 68,
+      "title": "Prepare their bag",
+      "description": "Pack their work or gym bag with everything they need.",
+      "category": "acts"
+    },
+    {
+      "id": 69,
+      "title": "Upgrade their favorite item",
+      "description": "Replace something they use daily with a nicer version.",
+      "category": "gifts"
+    },
+    {
+      "id": 70,
+      "title": "Surprise breakfast tacos",
+      "description": "Make or pick up surprise breakfast tacos on a weekend morning.",
+      "category": "food"
+    },
+    {
+      "id": 71,
+      "title": "Create a love jar",
+      "description": "Fill a jar with folded notes of things you love about them.",
+      "category": "notes"
+    },
+    {
+      "id": 72,
+      "title": "Rub their feet",
+      "description": "Give them a relaxing foot rub after a long day.",
+      "category": "physical"
+    },
+    {
+      "id": 73,
+      "title": "Say I love you creatively",
+      "description": "Find a new, creative way to express your love today.",
+      "category": "words"
+    },
+    {
+      "id": 74,
+      "title": "Visit somewhere new",
+      "description": "Explore a new coffee shop, trail, or neighborhood together.",
+      "category": "quality_time"
+    },
+    {
+      "id": 75,
+      "title": "Clean the bathroom",
+      "description": "Deep clean the bathroom before they even notice it needs it.",
+      "category": "acts"
+    },
+    {
+      "id": 76,
+      "title": "Gift a subscription",
+      "description": "Sign them up for a subscription box of something they love.",
+      "category": "gifts"
+    },
+    {
+      "id": 77,
+      "title": "Make fresh-squeezed juice",
+      "description": "Prepare fresh juice or a special drink just for them.",
+      "category": "food"
+    },
+    {
+      "id": 78,
+      "title": "Write a letter",
+      "description": "Compose a heartfelt letter expressing your feelings and mail it to them.",
+      "category": "notes"
+    },
+    {
+      "id": 79,
+      "title": "Play with their hair",
+      "description": "Gently run your fingers through their hair while relaxing.",
+      "category": "physical"
+    },
+    {
+      "id": 80,
+      "title": "Acknowledge their efforts",
+      "description": "Recognize something they've been working hard on lately.",
+      "category": "words"
+    },
+    {
+      "id": 81,
+      "title": "Have a phone-free dinner",
+      "description": "Put away all devices and focus entirely on each other during dinner.",
+      "category": "quality_time"
+    },
+    {
+      "id": 82,
+      "title": "Iron their clothes",
+      "description": "Iron or steam their outfit for the next day.",
+      "category": "acts"
+    },
+    {
+      "id": 83,
+      "title": "Create custom jewelry",
+      "description": "Gift them a personalized piece of jewelry with a special meaning.",
+      "category": "gifts"
+    },
+    {
+      "id": 84,
+      "title": "Order their favorite takeout",
+      "description": "Surprise them by ordering their favorite takeout for dinner.",
+      "category": "food"
+    },
+    {
+      "id": 85,
+      "title": "Leave a card on their desk",
+      "description": "Place a thoughtful card where they'll find it at work or home.",
+      "category": "notes"
+    },
+    {
+      "id": 86,
+      "title": "Wrap them in a blanket",
+      "description": "Tuck them into a cozy blanket when they're cold.",
+      "category": "physical"
+    },
+    {
+      "id": 87,
+      "title": "Brag about them",
+      "description": "Talk highly about them to a friend when they're not around.",
+      "category": "words"
+    },
+    {
+      "id": 88,
+      "title": "Weekend morning together",
+      "description": "Spend a lazy weekend morning in bed together, just talking.",
+      "category": "quality_time"
+    },
+    {
+      "id": 89,
+      "title": "Handle an errand",
+      "description": "Take care of an errand they've been putting off.",
+      "category": "acts"
+    },
+    {
+      "id": 90,
+      "title": "Get matching items",
+      "description": "Buy a small matching set of something - mugs, keychains, etc.",
+      "category": "gifts"
+    },
+    {
+      "id": 91,
+      "title": "Pack a snack",
+      "description": "Slip their favorite snack into their bag for later.",
+      "category": "food"
+    },
+    {
+      "id": 92,
+      "title": "Doodle a picture",
+      "description": "Draw a silly or sweet doodle and leave it for them to find.",
+      "category": "notes"
+    },
+    {
+      "id": 93,
+      "title": "Warm up the bed",
+      "description": "Get into bed first to warm up their side on cold nights.",
+      "category": "physical"
+    },
+    {
+      "id": 94,
+      "title": "Recall your first date",
+      "description": "Bring up a favorite moment from your first date together.",
+      "category": "words"
+    },
+    {
+      "id": 95,
+      "title": "Library date",
+      "description": "Spend an afternoon browsing a bookstore or library together.",
+      "category": "quality_time"
+    },
+    {
+      "id": 96,
+      "title": "Make the bed",
+      "description": "Make the bed with fresh sheets so it's extra cozy at night.",
+      "category": "acts"
+    },
+    {
+      "id": 97,
+      "title": "Gift a plant",
+      "description": "Give them a small plant or succulent to brighten their space.",
+      "category": "gifts"
+    },
+    {
+      "id": 98,
+      "title": "Midnight snack run",
+      "description": "Surprise them with a late-night snack run just because.",
+      "category": "food"
+    },
+    {
+      "id": 99,
+      "title": "Send a postcard",
+      "description": "Mail a postcard with a sweet message, even if you live together.",
+      "category": "notes"
+    },
+    {
+      "id": 100,
+      "title": "Link arms while walking",
+      "description": "Walk arm-in-arm when you're out together.",
+      "category": "physical"
+    }
+  ]
+}

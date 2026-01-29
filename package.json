@@ -1,0 +1,31 @@
+{
+  "name": "something-sweet",
+  "version": "1.0.0",
+  "description": "A Telegram bot that sends random reminders to do kind things for your significant other",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "dev:watch": "nodemon --exec ts-node src/index.ts",
+    "db:migrate": "ts-node src/db/migrate.ts",
+    "db:seed": "ts-node src/db/seed.ts",
+    "heartbeat": "ts-node src/services/heartbeat.ts"
+  },
+  "keywords": ["telegram", "bot", "reminders", "relationships"],
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "dotenv": "^16.4.5",
+    "pg": "^8.11.5",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.10",
+    "@types/node": "^20.12.7",
+    "@types/pg": "^8.11.5",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
